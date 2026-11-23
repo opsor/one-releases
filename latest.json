@@ -1,0 +1,11 @@
+{
+    "version":  "0.9.29",
+    "notes":  "Self-updates from GitHub, quieter startup",
+    "pub_date":  "2026-11-23T21:32:18Z",
+    "platforms":  {
+                      "windows-x86_64":  {
+                                             "signature":  "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUSTlPYmtSRXhSejlCdjNLd1YyTFpoSHozUk1rT3ZJMEJaajZaNVM0S1YxWHU2NWcxWmJBWlV2ZTU1bWpwa1MxRmFyQUFjOFhibnVhN09rRGxPQXFTdVlYb2o0SEFyRmdJPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk1NDY5NTM3CWZpbGU6b25lXzAuOS4yOV94NjQtc2V0dXAuZXhlCXZlcnNpb246MC45LjI5CjhkV0RDdTNyQ1A2RVgwdXlUMWpJUDFzQVk3dFZaZzI0d2NnMjVKOTNnS3NiMTNYZzU1QW5hSTMwaDVCVXdlRzhGd3hISVFpQTZVVXZDV0U3aWVCRkRnPT0K",
+                                             "url":  "https://raw.githubusercontent.com/opsor/one-releases/main/one_0.9.29_x64-setup.exe"
+                                         }
+                  }
+}
