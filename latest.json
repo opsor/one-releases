@@ -1,11 +1,11 @@
 {
-    "version":  "0.9.31",
-    "notes":  "New spark icon and a cleaner input bar.",
-    "pub_date":  "2026-11-25T21:22:21Z",
+    "version":  "0.9.32",
+    "notes":  "Edit and resend, memory, quick window (Ctrl+Alt+Space), chats in a database with daily backups, darker look and smoother animations.",
+    "pub_date":  "2026-11-25T21:47:36Z",
     "platforms":  {
                       "windows-x86_64":  {
-                                             "signature":  "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUSTlPYmtSRXhSejZUMTdsRWtpM0pYVW03QkVwZXg3eEhyR3hsU2E4Wk5HelVHM2R6Tk9aNCsvU0NiNVFIdkdLU0xiTHo4TVVrSU9sa2FqVkVkSXRNREpFT3ZpS0xxTEFnPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk1NjQxNzQwCWZpbGU6b25lXzAuOS4zMV94NjQtc2V0dXAuZXhlCXZlcnNpb246MC45LjMxCmdBMThxVWxCNlV4SW9MclNoMEtTb0RUUFRhY2lHWWhZemh3OE51UkNjOHVtVXg4elNXMUtTSkdYTWJQckhiRS9mU1dRRWVoVndTek9CVWFydm9mTERnPT0K",
-                                             "url":  "https://raw.githubusercontent.com/opsor/one-releases/main/one_0.9.31_x64-setup.exe"
+                                             "signature":  "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUSTlPYmtSRXhSejZGT28vaWhSelhhNVJHVEozWXN1eWZtVkpaR01OYnZOSjJrNUErdy8zaGZBaVpFZnBsNWNKejBwc21OL2Y3YnNoK0M3dzBNZjl4amVqaUl2ZFJkYlFFPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk1NjQzMjU1CWZpbGU6b25lXzAuOS4zMl94NjQtc2V0dXAuZXhlCXZlcnNpb246MC45LjMyCmZ6N1A2T24xd2IxRjR2c0VSYUtlb2ZrSEtUaFdtc04ycGl5UmtHQitaLzQrUE45Z2d0cVVDZWNITkVKbXpvQ0FKSHVWQjJ0REVuRVhtdlVybi84TkNnPT0K",
+                                             "url":  "https://raw.githubusercontent.com/opsor/one-releases/main/one_0.9.32_x64-setup.exe"
                                          }
                   }
 }
