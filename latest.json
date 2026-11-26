@@ -1,11 +1,11 @@
 {
-    "version":  "0.9.32",
-    "notes":  "Edit and resend, memory, quick window (Ctrl+Alt+Space), chats in a database with daily backups, darker look and smoother animations.",
-    "pub_date":  "2026-11-25T21:47:36Z",
+    "version":  "0.9.33",
+    "notes":  "Connect Claude Code, Codex, Gemini CLI, Antigravity, OpenCode, GitHub Copilot, CodeBuddy, Qoder and every other ACP registry agent with your own sign-in; new model picker; checked free providers; cheaper long runs; faster start.",
+    "pub_date":  "2026-11-26T14:58:54Z",
     "platforms":  {
                       "windows-x86_64":  {
-                                             "signature":  "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUSTlPYmtSRXhSejZGT28vaWhSelhhNVJHVEozWXN1eWZtVkpaR01OYnZOSjJrNUErdy8zaGZBaVpFZnBsNWNKejBwc21OL2Y3YnNoK0M3dzBNZjl4amVqaUl2ZFJkYlFFPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk1NjQzMjU1CWZpbGU6b25lXzAuOS4zMl94NjQtc2V0dXAuZXhlCXZlcnNpb246MC45LjMyCmZ6N1A2T24xd2IxRjR2c0VSYUtlb2ZrSEtUaFdtc04ycGl5UmtHQitaLzQrUE45Z2d0cVVDZWNITkVKbXpvQ0FKSHVWQjJ0REVuRVhtdlVybi84TkNnPT0K",
-                                             "url":  "https://raw.githubusercontent.com/opsor/one-releases/main/one_0.9.32_x64-setup.exe"
+                                             "signature":  "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUSTlPYmtSRXhSejJ4eFgwMFdKTkFndjZ5eDdwQVNrRXplaU1KRjlNQ0VXSG9yVXVYVVpTSU4zUWFyckZHRDZXSTNBc0tQbHE4NklKNXQ0OHIrdVQ3THI1QnpFT1VTSmdzPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk1NzA1MTMzCWZpbGU6b25lXzAuOS4zM194NjQtc2V0dXAuZXhlCXZlcnNpb246MC45LjMzCnp0RWZiWERWK3NsVEdNRHBHeG82NndQVjYwczJjTG1rWElKelpONFU0TEJTUUJjaWc2TVZrWFpodUhEenl5b2JNNzhGOEhKYVZQZmp0dWdLaHptc0NBPT0K",
+                                             "url":  "https://raw.githubusercontent.com/opsor/one-releases/main/one_0.9.33_x64-setup.exe"
                                          }
                   }
 }
