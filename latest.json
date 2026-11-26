@@ -1,11 +1,11 @@
 {
-    "version":  "0.9.33",
-    "notes":  "Connect Claude Code, Codex, Gemini CLI, Antigravity, OpenCode, GitHub Copilot, CodeBuddy, Qoder and every other ACP registry agent with your own sign-in; new model picker; checked free providers; cheaper long runs; faster start.",
-    "pub_date":  "2026-11-26T14:58:54Z",
+    "version":  "0.9.34",
+    "notes":  "Model picker shows only what you can use, pick an agent\u0027s model, one-click Connect, real logos, fewer tokens on agent chats.",
+    "pub_date":  "2026-11-26T22:12:53Z",
     "platforms":  {
                       "windows-x86_64":  {
-                                             "signature":  "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUSTlPYmtSRXhSejJ4eFgwMFdKTkFndjZ5eDdwQVNrRXplaU1KRjlNQ0VXSG9yVXVYVVpTSU4zUWFyckZHRDZXSTNBc0tQbHE4NklKNXQ0OHIrdVQ3THI1QnpFT1VTSmdzPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk1NzA1MTMzCWZpbGU6b25lXzAuOS4zM194NjQtc2V0dXAuZXhlCXZlcnNpb246MC45LjMzCnp0RWZiWERWK3NsVEdNRHBHeG82NndQVjYwczJjTG1rWElKelpONFU0TEJTUUJjaWc2TVZrWFpodUhEenl5b2JNNzhGOEhKYVZQZmp0dWdLaHptc0NBPT0K",
-                                             "url":  "https://raw.githubusercontent.com/opsor/one-releases/main/one_0.9.33_x64-setup.exe"
+                                             "signature":  "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUSTlPYmtSRXhSei9PMWZMM3YyeWlFTSsyMDZ3OExxQi9ST3ZOYmNLSWtrSUZHTXBUUW1HeHdIeDdWS0tReFNuVytadE1hK2E1aE1SUjFiQUF3K1ZHcTZFZ042NldhTkEwPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk1NzMxMTcyCWZpbGU6b25lXzAuOS4zNF94NjQtc2V0dXAuZXhlCXZlcnNpb246MC45LjM0Ci9EVVRNcWZXQjdKODQwNmFRUGJ2b2t2M1NDT1RVdGF5U0lSRFRRZzhrOVpFUk5aS01hNDNtTjJXYStpMTlhMms4K000ZjJ2UTBGbVFtN2laTDZWV0JnPT0K",
+                                             "url":  "https://raw.githubusercontent.com/opsor/one-releases/main/one_0.9.34_x64-setup.exe"
                                          }
                   }
 }
