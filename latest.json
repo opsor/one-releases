@@ -1,11 +1,11 @@
 {
-    "version":  "1.0.1",
-    "notes":  "one 1.0.1: Settings opens as a window over the app, like Claude Code. Refreshed Settings pages.",
-    "pub_date":  "2026-11-27T13:48:26Z",
+    "version":  "1.0.2",
+    "notes":  "one 1.0.2: a cleaner glow around the input.",
+    "pub_date":  "2026-11-27T15:18:09Z",
     "platforms":  {
                       "windows-x86_64":  {
-                                             "signature":  "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUSTlPYmtSRXhSejhTYXlNazhFZ3V0VnNyUjErUkJTa1cvMnVuOFMwSnl6bTFKWndINnpmcXU1VVFDZ1lObHpyOE1IM0VRbjc1STV0UUhMUFBxZGlGU0gzQzdZRXJkc3c4PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk1Nzg3MzA1CWZpbGU6b25lXzEuMC4xX3g2NC1zZXR1cC5leGUJdmVyc2lvbjoxLjAuMQpFdmNuZk52N0p3RWtGd1VFT3JGNGxZRzdiTjBlZG85RjJFQ1RGMWtCektDVTd1T0VwLzhBTmFwWGFNVU9hd3ZwWDkreVBzeGFNMnkzRDFiTzFOd0pEdz09Cg==",
-                                             "url":  "https://raw.githubusercontent.com/opsor/one-releases/main/one_1.0.1_x64-setup.exe"
+                                             "signature":  "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUSTlPYmtSRXhSeiswc1UxUnl3WFFONGdUeTdTYlNFV2NhV3dUTFBBdFROT1ArbDdxaUw4eTlUN0JvQWV4ekEvOEV2Z1dtSDk2UEJFb20yWlpNZDhpSlkwTTJMb1gyQlFrPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk1NzkyNjg4CWZpbGU6b25lXzEuMC4yX3g2NC1zZXR1cC5leGUJdmVyc2lvbjoxLjAuMgpIak0zTGd6clovRFlra0xKNWI0MVZvWjRyZm5UY2FIQlRHY0w2RHNNeFlNU241VGp1Z0ZzeExzR1JyckpqUXV4QTQ5eGlWbnJmV1ZKVktCZEpSTkpCdz09Cg==",
+                                             "url":  "https://raw.githubusercontent.com/opsor/one-releases/main/one_1.0.2_x64-setup.exe"
                                          }
                   }
 }
