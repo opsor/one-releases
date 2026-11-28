@@ -1,11 +1,11 @@
 {
-  "version": "1.0.6",
-  "notes": "Code block header and copy, streaming fade, Jump to latest, Thought for Ns, prompt recall with Up, picker polish, cleaner Settings rows, fixed model names.",
-  "pub_date": "2026-11-28T03:15:33Z",
+  "version": "1.0.7",
+  "notes": "Undo fixed for folders inside a bigger repo and limited to the agent's own files, safer turns, faster startup, light theme contrast.",
+  "pub_date": "2026-11-28T03:35:19Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUSTlPYmtSRXhSendJVE5kM1NWZEhmWXVmTVcvVE1PMUhqUTB0QjJlMUY1aTZGcHAwdHdYdmFvUTFDTmg3T2NUeS90NGVEb1ArcFNxZGJMeEdiVUpxTGxFNndtcHZ3SUFrPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk1ODM1NzMyCWZpbGU6b25lXzEuMC42X3g2NC1zZXR1cC5leGUJdmVyc2lvbjoxLjAuNgo4alNqWnhFUG0rd3pyQWhtY1FydEt1WVVFcDJZRmozRFVjUDYyZjRmYTJnYkh1cm9JdDRpUU9ieUNWQXY3UlhiKzRTdWxvMDl1cGlWVVNqdkNYVVVDQT09Cg==",
-      "url": "https://raw.githubusercontent.com/opsor/one-releases/main/one_1.0.6_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUSTlPYmtSRXhSejZzSEtzYjR0QWVsV0Jyc2hWdElOdXN1UnJpWjVacFAxTGhTejZxQmxRd2VGbHpVWHVaL0g0M1ZDTklKNldBL2hkOHdnSDBqWjNsR0R4SFpUVDM3RWdRPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk1ODM2OTE4CWZpbGU6b25lXzEuMC43X3g2NC1zZXR1cC5leGUJdmVyc2lvbjoxLjAuNwp5SDBwRHU0QWNBS0xaeUJETnFoNy9oaUt0dEZxc1l6SmRUZUhNZXlibmttRDRJWExDcXphS2RDY2JHamVpK1I0YTBBbnhvV01sSTNvSDFXbFhlS2ZDUT09Cg==",
+      "url": "https://raw.githubusercontent.com/opsor/one-releases/main/one_1.0.7_x64-setup.exe"
     }
   }
 }
