@@ -1,11 +1,11 @@
 {
-  "version": "1.0.11",
-  "notes": "Focus in chat lands right in long chats, sidebar times keep counting, lighter while streaming.",
-  "pub_date": "2026-11-28T04:46:23Z",
+  "version": "1.0.12",
+  "notes": "Calmer start screen and input bar; web search choice in Settings > General.",
+  "pub_date": "2026-11-28T10:18:43Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUSTlPYmtSRXhSenp4QlFETVJseitKUmVmVldUTUtwRWExK1Z4L2ZrZlRPczNDdVFxbjVCODFoZWhZS3lzb1hDYTZpZGZucmZZSFM4aTdLWjRLenRQU3BmcFdtNXovQWdBPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk1ODQxMTgyCWZpbGU6b25lXzEuMC4xMV94NjQtc2V0dXAuZXhlCXZlcnNpb246MS4wLjExClU0ZXkwNklyOFpnT1R1K1lGd2tmdjg3ak1ieVd0emF3aDR3WXFYTE9IMXRDL1pDZGpLZ05rQnYwWXdQMEtXNXpQelNoeWNlckM0TEdhWXZQdHJvWENBPT0K",
-      "url": "https://raw.githubusercontent.com/opsor/one-releases/main/one_1.0.11_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUSTlPYmtSRXhSejJ0MWlLRE9xdXBBM08wZTUrNk5sNGRmR0l3dHpTcTN1UVB1Sk1oNGpYNXVXdlZGZXYwREV6RjVKNkthQ3NLSHFEODAzUjh0eitLc2JTd1ljYUcxQndjPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk1ODYxMTIzCWZpbGU6b25lXzEuMC4xMl94NjQtc2V0dXAuZXhlCXZlcnNpb246MS4wLjEyCjNWQ0s4cFR5ZExTenFhbEdINnphRzZqTncrb05wMDdZSEZBQzZpUXJldUhOYlBHZFl1WWJCTnFLeU0vVTNvQnN5KzNlNXZNaVg5cFNmelhIWHhXakRnPT0K",
+      "url": "https://raw.githubusercontent.com/opsor/one-releases/main/one_1.0.12_x64-setup.exe"
     }
   }
 }
