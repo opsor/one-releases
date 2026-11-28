@@ -1,11 +1,11 @@
 {
-  "version": "1.0.10",
-  "notes": "Much faster with long chats, private memory and summaries, Knowledge without freezes, reliable Remote Control.",
-  "pub_date": "2026-11-28T04:39:51Z",
+  "version": "1.0.11",
+  "notes": "Focus in chat lands right in long chats, sidebar times keep counting, lighter while streaming.",
+  "pub_date": "2026-11-28T04:46:23Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUSTlPYmtSRXhSendzMmE5bDF2NTlkWi9sNVNBakRVTE1wY0FVdUJoeXBOK0E3Umgxa1lVME9SeGROZlhxNHB5bTc0U1gyRmJhdzF6dUxuMjQzbmJaTXlTZDhSRmdBWHdFPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk1ODQwNzkwCWZpbGU6b25lXzEuMC4xMF94NjQtc2V0dXAuZXhlCXZlcnNpb246MS4wLjEwCmNsTkVkeTNRVHhqMG0rb2Zrb21KcXc1ZkhHWjc2Z0xkVU1TdVV6bnl2TTllK01teFZPNE1TU203NVhoaGE3UXdYMXNtVDRmQzFPYWQxZ1FrNlBQeURBPT0K",
-      "url": "https://raw.githubusercontent.com/opsor/one-releases/main/one_1.0.10_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUSTlPYmtSRXhSenp4QlFETVJseitKUmVmVldUTUtwRWExK1Z4L2ZrZlRPczNDdVFxbjVCODFoZWhZS3lzb1hDYTZpZGZucmZZSFM4aTdLWjRLenRQU3BmcFdtNXovQWdBPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk1ODQxMTgyCWZpbGU6b25lXzEuMC4xMV94NjQtc2V0dXAuZXhlCXZlcnNpb246MS4wLjExClU0ZXkwNklyOFpnT1R1K1lGd2tmdjg3ak1ieVd0emF3aDR3WXFYTE9IMXRDL1pDZGpLZ05rQnYwWXdQMEtXNXpQelNoeWNlckM0TEdhWXZQdHJvWENBPT0K",
+      "url": "https://raw.githubusercontent.com/opsor/one-releases/main/one_1.0.11_x64-setup.exe"
     }
   }
 }
