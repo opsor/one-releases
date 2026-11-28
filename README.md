@@ -3,8 +3,8 @@
 **one** is a Windows desktop app that puts the free tiers of 90+ AI providers and the coding agents you already pay for (Claude Code, Codex, Gemini CLI, Antigravity, OpenCode, GitHub Copilot, CodeBuddy, Qoder) behind one chat box.
 
 <p>
-  <a href="https://github.com/opsor/one-releases/raw/main/one_1.0.3_x64-setup.exe"><b>Download one 1.0.3 for Windows</b></a><br>
-  <sub><code>one_1.0.3_x64-setup.exe</code> · 6 MB · Windows 10 and 11, 64-bit</sub>
+  <a href="https://github.com/opsor/one-releases/raw/main/one_1.0.7_x64-setup.exe"><b>Download one 1.0.7 for Windows</b></a><br>
+  <sub><code>one_1.0.7_x64-setup.exe</code> · 6 MB · Windows 10 and 11, 64-bit</sub>
 </p>
 
 ## Install
@@ -14,13 +14,14 @@
 
 After that, one updates itself: it checks [`latest.json`](latest.json) on every start and verifies each update with one's signing key before installing it.
 
-## New in 1.0.3
+## What you get
 
-- A mascot on the start screen.
-- In Code chats, the files each agent answer changed, with the diff and Undo.
-- Several sign-ins per agent, each pickable in the model picker.
-- A tag per model in the picker: fast, everyday, deep, code, vision, local, free.
-- A calmer look: warmer greys, thinner icons, softer lines.
+- One chat box for the free tiers of 90+ providers, with the best models first and the ones that can't work hidden.
+- The coding agents you already pay for, with several sign-ins each, their plans and limits in view.
+- In Code chats, the files each answer changed, with the diff and Undo.
+- A calm design: light and dark, Mica on Windows 11, a mascot that keeps you company.
+
+The newest changes are in the app under What's New and on the [roadmap](https://github.com/opsor/one/blob/main/ROADMAP.md).
 
 Each installer is scanned with Microsoft Defender before it's published here. The two newest versions are kept.
 
