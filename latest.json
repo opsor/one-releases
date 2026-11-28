@@ -1,11 +1,11 @@
 {
-  "version": "1.0.12",
-  "notes": "Calmer start screen and input bar; web search choice in Settings > General.",
-  "pub_date": "2026-11-28T10:18:43Z",
+  "version": "1.0.13",
+  "notes": "Agent plans show without a message; Cursor, Devin, Goose and Junie install; folded token bar fixed.",
+  "pub_date": "2026-11-28T10:28:57Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUSTlPYmtSRXhSejJ0MWlLRE9xdXBBM08wZTUrNk5sNGRmR0l3dHpTcTN1UVB1Sk1oNGpYNXVXdlZGZXYwREV6RjVKNkthQ3NLSHFEODAzUjh0eitLc2JTd1ljYUcxQndjPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk1ODYxMTIzCWZpbGU6b25lXzEuMC4xMl94NjQtc2V0dXAuZXhlCXZlcnNpb246MS4wLjEyCjNWQ0s4cFR5ZExTenFhbEdINnphRzZqTncrb05wMDdZSEZBQzZpUXJldUhOYlBHZFl1WWJCTnFLeU0vVTNvQnN5KzNlNXZNaVg5cFNmelhIWHhXakRnPT0K",
-      "url": "https://raw.githubusercontent.com/opsor/one-releases/main/one_1.0.12_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUSTlPYmtSRXhSejZMNUZkclNwSTRaNWFzU0ZCMnNpWEZJd2hVTll3bUJJbXowZkd2akhNWlJ2ZHYrcFNiZEJ1WHZoL2ZQMmlvSDZvdExWQU9NRitNbVdVMGNRdlB2UlFBPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk1ODYxNzM2CWZpbGU6b25lXzEuMC4xM194NjQtc2V0dXAuZXhlCXZlcnNpb246MS4wLjEzCktuN0YxVmFWWVZGa2xBR3ROeEludGpyVkgxd3FxcHh0TVJHSndMZFBiTFVKMW5MdC8yeG9lUVcxMzFaZ0RWbjFBT3JiaHFveTFabHpJZ0RUWUNqWUJBPT0K",
+      "url": "https://raw.githubusercontent.com/opsor/one-releases/main/one_1.0.13_x64-setup.exe"
     }
   }
 }
