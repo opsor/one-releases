@@ -1,11 +1,11 @@
 {
-  "version": "1.0.8",
-  "notes": "Security and accessibility: images on click, links in the browser, shell off enforced, agents ask before fetching, pinned downloads, keyboard and screen-reader fixes, better contrast, reduced motion.",
-  "pub_date": "2026-11-28T03:54:50Z",
+  "version": "1.0.9",
+  "notes": "Chat safety (damaged file recovery, no silent loss), one instance and a clean quit, plain error messages with buttons, safer updates, version row.",
+  "pub_date": "2026-11-28T04:19:57Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUSTlPYmtSRXhSejNPa0JYUjZHc0pQREJyOGdWRWs4MzhjNTUzcFhpaVJ3TWYwSS9NQVlRSDh0a08wbk13bmVsL0Z2dkZ1UWZ1ZHFqMFpaWjZSSElDZGdROURYVGNYT1FrPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk1ODM4MDg5CWZpbGU6b25lXzEuMC44X3g2NC1zZXR1cC5leGUJdmVyc2lvbjoxLjAuOApOWFc0UlhPT2tHQ1A3S0tYRE9KLzU5VlMrUnZZYmUvY1JlaG9IMmUyNUJSZFMrMmo2T0R1S3ljbjNCYU1zbDZqSXZOcGRldUhnbDF6dXZ4anZ1Z2VCQT09Cg==",
-      "url": "https://raw.githubusercontent.com/opsor/one-releases/main/one_1.0.8_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUSTlPYmtSRXhSejJJT0pSTVV3bWdoNmVjSE1GNTByYjFZaXFUbVBiK2VuZTJOenB6VUlSZVFSY25veHNPM3ArWktEQmZFbXlBVUZQVWluWEtrQldMOVovaktUUWVUM3dNPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk1ODM5NTk2CWZpbGU6b25lXzEuMC45X3g2NC1zZXR1cC5leGUJdmVyc2lvbjoxLjAuOQo4VkFnWnBFSXdhaVFzSWxPZFR1djhuSWFTT0hLTGp4UGV6T1ZDZjBkRG10L1lFbWE2VWZhMjRvcjUwRzBlMGo4N2Mvcmg2eUxWTzR5WlMrUkRjWkhCdz09Cg==",
+      "url": "https://raw.githubusercontent.com/opsor/one-releases/main/one_1.0.9_x64-setup.exe"
     }
   }
 }
