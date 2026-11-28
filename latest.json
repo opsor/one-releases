@@ -1,11 +1,11 @@
 {
-  "version": "1.0.5",
-  "notes": "Chats grouped by day, a cleaner input box, Mica on Windows 11, the mascot in the Agents panel and empty pages, calmer Settings.",
-  "pub_date": "2026-11-28T03:00:43Z",
+  "version": "1.0.6",
+  "notes": "Code block header and copy, streaming fade, Jump to latest, Thought for Ns, prompt recall with Up, picker polish, cleaner Settings rows, fixed model names.",
+  "pub_date": "2026-11-28T03:15:33Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUSTlPYmtSRXhSejVUcit4bjFueGxOVlhsNVZ3aVZYNVhqRGRCTHhhdEp4Q2VnOUx4aFVYY1FQNk4rWDZuZWpiQ2dGUkIwWXZYTW5hbmdxK09sSVVXMGFMcDVUT0txaEFBPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk1ODM0ODQyCWZpbGU6b25lXzEuMC41X3g2NC1zZXR1cC5leGUJdmVyc2lvbjoxLjAuNQpkS0lxOXFKSm12NW9wQzRGSGRUSkpJZ1ZxbGt1aVI0N0dmenV2OUFtU2RTWk1UaGxOaEhSb1pxQ09sRzVDdjBmYjNPSmtBZXUwTnNFUURyeXJrOWZEQT09Cg==",
-      "url": "https://raw.githubusercontent.com/opsor/one-releases/main/one_1.0.5_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUSTlPYmtSRXhSendJVE5kM1NWZEhmWXVmTVcvVE1PMUhqUTB0QjJlMUY1aTZGcHAwdHdYdmFvUTFDTmg3T2NUeS90NGVEb1ArcFNxZGJMeEdiVUpxTGxFNndtcHZ3SUFrPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk1ODM1NzMyCWZpbGU6b25lXzEuMC42X3g2NC1zZXR1cC5leGUJdmVyc2lvbjoxLjAuNgo4alNqWnhFUG0rd3pyQWhtY1FydEt1WVVFcDJZRmozRFVjUDYyZjRmYTJnYkh1cm9JdDRpUU9ieUNWQXY3UlhiKzRTdWxvMDl1cGlWVVNqdkNYVVVDQT09Cg==",
+      "url": "https://raw.githubusercontent.com/opsor/one-releases/main/one_1.0.6_x64-setup.exe"
     }
   }
 }
