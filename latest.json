@@ -1,11 +1,11 @@
 {
-  "version": "1.0.16",
-  "notes": "The mascot reads answers aloud; Settings > Voice clones voices with VoiceStudio.",
-  "pub_date": "2026-11-28T13:10:10Z",
+  "version": "1.0.17",
+  "notes": "Read-aloud works with VoiceStudio 0.5.8; newest voice until you pick one.",
+  "pub_date": "2026-11-28T13:33:05Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUSTlPYmtSRXhSejlZbm1BemlGTzE3V2VBK2pSckdLdGhhVjhiYlhkYXp0MG5YNXJHSjloYlBJR0V6cEx6a1dFSTk1SFZwbUJMcE9EVXJWM2IxcUJIeW9LOU5tMzhHeFFzPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk1ODcxNDA5CWZpbGU6b25lXzEuMC4xNl94NjQtc2V0dXAuZXhlCXZlcnNpb246MS4wLjE2CnY4TnVxVGU4MHJjUlN3OHRMRHgrYVMzeXZ2NmdsazNZcXdObmNxR0l3WWhPdVV0NjJCNENnZ1BoS1pockJ0WVJ1b1ZhTTVxY09DREwrZ3NLK3FHdkF3PT0K",
-      "url": "https://raw.githubusercontent.com/opsor/one-releases/main/one_1.0.16_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUSTlPYmtSRXhSejdxcTJCdEJISms5a2UrRmlZY3hkbm5DS3VRZTZQWnEzVlNyMGxOMTNlL3MwZnlCTnBZYmZxWDFTdFJvc2ErdnVTMG8vc2JvUm1hUk5HQWFNWVlvZXdjPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk1ODcyNzg0CWZpbGU6b25lXzEuMC4xN194NjQtc2V0dXAuZXhlCXZlcnNpb246MS4wLjE3ClFUeDYySjlXWG5KR3FUMUU3bjJKeHBVRTBxeFlMTUowU1lPQklQRm9JNGZrL3I4WWx6dXNGWTBjM1VSb2NYTU9tNm96NVNCdXpPVVI1S2FPQ2YwQUF3PT0K",
+      "url": "https://raw.githubusercontent.com/opsor/one-releases/main/one_1.0.17_x64-setup.exe"
     }
   }
 }
