@@ -1,11 +1,11 @@
 {
-  "version": "1.0.7",
-  "notes": "Undo fixed for folders inside a bigger repo and limited to the agent's own files, safer turns, faster startup, light theme contrast.",
-  "pub_date": "2026-11-28T03:35:19Z",
+  "version": "1.0.8",
+  "notes": "Security and accessibility: images on click, links in the browser, shell off enforced, agents ask before fetching, pinned downloads, keyboard and screen-reader fixes, better contrast, reduced motion.",
+  "pub_date": "2026-11-28T03:54:50Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUSTlPYmtSRXhSejZzSEtzYjR0QWVsV0Jyc2hWdElOdXN1UnJpWjVacFAxTGhTejZxQmxRd2VGbHpVWHVaL0g0M1ZDTklKNldBL2hkOHdnSDBqWjNsR0R4SFpUVDM3RWdRPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk1ODM2OTE4CWZpbGU6b25lXzEuMC43X3g2NC1zZXR1cC5leGUJdmVyc2lvbjoxLjAuNwp5SDBwRHU0QWNBS0xaeUJETnFoNy9oaUt0dEZxc1l6SmRUZUhNZXlibmttRDRJWExDcXphS2RDY2JHamVpK1I0YTBBbnhvV01sSTNvSDFXbFhlS2ZDUT09Cg==",
-      "url": "https://raw.githubusercontent.com/opsor/one-releases/main/one_1.0.7_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUSTlPYmtSRXhSejNPa0JYUjZHc0pQREJyOGdWRWs4MzhjNTUzcFhpaVJ3TWYwSS9NQVlRSDh0a08wbk13bmVsL0Z2dkZ1UWZ1ZHFqMFpaWjZSSElDZGdROURYVGNYT1FrPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk1ODM4MDg5CWZpbGU6b25lXzEuMC44X3g2NC1zZXR1cC5leGUJdmVyc2lvbjoxLjAuOApOWFc0UlhPT2tHQ1A3S0tYRE9KLzU5VlMrUnZZYmUvY1JlaG9IMmUyNUJSZFMrMmo2T0R1S3ljbjNCYU1zbDZqSXZOcGRldUhnbDF6dXZ4anZ1Z2VCQT09Cg==",
+      "url": "https://raw.githubusercontent.com/opsor/one-releases/main/one_1.0.8_x64-setup.exe"
     }
   }
 }

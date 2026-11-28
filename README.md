@@ -3,8 +3,8 @@
 **one** is a Windows desktop app that puts the free tiers of 90+ AI providers and the coding agents you already pay for (Claude Code, Codex, Gemini CLI, Antigravity, OpenCode, GitHub Copilot, CodeBuddy, Qoder) behind one chat box.
 
 <p>
-  <a href="https://github.com/opsor/one-releases/raw/main/one_1.0.7_x64-setup.exe"><b>Download one 1.0.7 for Windows</b></a><br>
-  <sub><code>one_1.0.7_x64-setup.exe</code> · 6 MB · Windows 10 and 11, 64-bit</sub>
+  <a href="https://github.com/opsor/one-releases/raw/main/one_1.0.8_x64-setup.exe"><b>Download one 1.0.8 for Windows</b></a><br>
+  <sub><code>one_1.0.8_x64-setup.exe</code> · 6 MB · Windows 10 and 11, 64-bit</sub>
 </p>
 
 ## Install
