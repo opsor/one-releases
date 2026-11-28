@@ -1,11 +1,11 @@
 {
-  "version": "1.0.9",
-  "notes": "Chat safety (damaged file recovery, no silent loss), one instance and a clean quit, plain error messages with buttons, safer updates, version row.",
-  "pub_date": "2026-11-28T04:19:57Z",
+  "version": "1.0.10",
+  "notes": "Much faster with long chats, private memory and summaries, Knowledge without freezes, reliable Remote Control.",
+  "pub_date": "2026-11-28T04:39:51Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUSTlPYmtSRXhSejJJT0pSTVV3bWdoNmVjSE1GNTByYjFZaXFUbVBiK2VuZTJOenB6VUlSZVFSY25veHNPM3ArWktEQmZFbXlBVUZQVWluWEtrQldMOVovaktUUWVUM3dNPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk1ODM5NTk2CWZpbGU6b25lXzEuMC45X3g2NC1zZXR1cC5leGUJdmVyc2lvbjoxLjAuOQo4VkFnWnBFSXdhaVFzSWxPZFR1djhuSWFTT0hLTGp4UGV6T1ZDZjBkRG10L1lFbWE2VWZhMjRvcjUwRzBlMGo4N2Mvcmg2eUxWTzR5WlMrUkRjWkhCdz09Cg==",
-      "url": "https://raw.githubusercontent.com/opsor/one-releases/main/one_1.0.9_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUSTlPYmtSRXhSendzMmE5bDF2NTlkWi9sNVNBakRVTE1wY0FVdUJoeXBOK0E3Umgxa1lVME9SeGROZlhxNHB5bTc0U1gyRmJhdzF6dUxuMjQzbmJaTXlTZDhSRmdBWHdFPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk1ODQwNzkwCWZpbGU6b25lXzEuMC4xMF94NjQtc2V0dXAuZXhlCXZlcnNpb246MS4wLjEwCmNsTkVkeTNRVHhqMG0rb2Zrb21KcXc1ZkhHWjc2Z0xkVU1TdVV6bnl2TTllK01teFZPNE1TU203NVhoaGE3UXdYMXNtVDRmQzFPYWQxZ1FrNlBQeURBPT0K",
+      "url": "https://raw.githubusercontent.com/opsor/one-releases/main/one_1.0.10_x64-setup.exe"
     }
   }
 }
