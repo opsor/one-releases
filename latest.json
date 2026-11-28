@@ -1,11 +1,11 @@
 {
-    "version":  "1.0.2",
-    "notes":  "one 1.0.2: a cleaner glow around the input.",
-    "pub_date":  "2026-11-27T15:18:09Z",
-    "platforms":  {
-                      "windows-x86_64":  {
-                                             "signature":  "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUSTlPYmtSRXhSeiswc1UxUnl3WFFONGdUeTdTYlNFV2NhV3dUTFBBdFROT1ArbDdxaUw4eTlUN0JvQWV4ekEvOEV2Z1dtSDk2UEJFb20yWlpNZDhpSlkwTTJMb1gyQlFrPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk1NzkyNjg4CWZpbGU6b25lXzEuMC4yX3g2NC1zZXR1cC5leGUJdmVyc2lvbjoxLjAuMgpIak0zTGd6clovRFlra0xKNWI0MVZvWjRyZm5UY2FIQlRHY0w2RHNNeFlNU241VGp1Z0ZzeExzR1JyckpqUXV4QTQ5eGlWbnJmV1ZKVktCZEpSTkpCdz09Cg==",
-                                             "url":  "https://raw.githubusercontent.com/opsor/one-releases/main/one_1.0.2_x64-setup.exe"
-                                         }
-                  }
+  "version": "1.0.3",
+  "notes": "Mascot on the start screen; per-turn changes with diff and Undo in Code chats; several sign-ins per agent; one word per model in the picker; calmer look with warmer greys, thinner icons and button motion.",
+  "pub_date": "2026-11-28T02:19:07Z",
+  "platforms": {
+    "windows-x86_64": {
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUSTlPYmtSRXhSejVSSTFJN0hLc09PODJVZVpERVhyVGc3M0QralIvR2g3V3EwS0ZOVGo5eW9OTm1wRHFTeGk1UlJqL3RvcFJETjJBemRDNXlBdHZwT200M21PcisrTUFBPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk1ODMyMzQ2CWZpbGU6b25lXzEuMC4zX3g2NC1zZXR1cC5leGUJdmVyc2lvbjoxLjAuMwpPRzVDcVVZakJGaXN0TEtTc2JnR0JRUEw1UTVUcWMreXBiWlNaa0lzY3NSV09RblZEdEdsdGcreTU1NE1EVC92YTZkd2J0MHRkL01xQjU0REtHbGFEQT09Cg==",
+      "url": "https://raw.githubusercontent.com/opsor/one-releases/main/one_1.0.3_x64-setup.exe"
+    }
+  }
 }
