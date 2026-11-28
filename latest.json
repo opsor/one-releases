@@ -1,11 +1,11 @@
 {
-  "version": "1.0.3",
-  "notes": "Mascot on the start screen; per-turn changes with diff and Undo in Code chats; several sign-ins per agent; one word per model in the picker; calmer look with warmer greys, thinner icons and button motion.",
-  "pub_date": "2026-11-28T02:19:07Z",
+  "version": "1.0.4",
+  "notes": "Best models first in the picker (Antigravity on top, Top models), unusable models hidden, coding-agent plans and limits in Settings and the token bar, a logo for every provider.",
+  "pub_date": "2026-11-28T02:44:07Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUSTlPYmtSRXhSejVSSTFJN0hLc09PODJVZVpERVhyVGc3M0QralIvR2g3V3EwS0ZOVGo5eW9OTm1wRHFTeGk1UlJqL3RvcFJETjJBemRDNXlBdHZwT200M21PcisrTUFBPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk1ODMyMzQ2CWZpbGU6b25lXzEuMC4zX3g2NC1zZXR1cC5leGUJdmVyc2lvbjoxLjAuMwpPRzVDcVVZakJGaXN0TEtTc2JnR0JRUEw1UTVUcWMreXBiWlNaa0lzY3NSV09RblZEdEdsdGcreTU1NE1EVC92YTZkd2J0MHRkL01xQjU0REtHbGFEQT09Cg==",
-      "url": "https://raw.githubusercontent.com/opsor/one-releases/main/one_1.0.3_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUSTlPYmtSRXhSejB6YXhaNlVoQ3R5Z1dXKzNBVmVzWTg1b2svTUZEM1RjWW1nRmRWbGV4YTBuNGtVMGVidXJ0YzRFOGtVUmoxcDhZQlVSbEU2K0w3ME5ZQkxySlpReXdvPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk1ODMzODQ2CWZpbGU6b25lXzEuMC40X3g2NC1zZXR1cC5leGUJdmVyc2lvbjoxLjAuNApBNEYyK1FPLzU0Ly9zOHA4V0drNXdraE1ReGYzWEtTMEpTTWVvRy9SS2VNRWFkMHZ5NjIveDFpbFhNK1ltZmY3WERlUm5QcU5rd2tWRHlGMFZPSlNBZz09Cg==",
+      "url": "https://raw.githubusercontent.com/opsor/one-releases/main/one_1.0.4_x64-setup.exe"
     }
   }
 }
