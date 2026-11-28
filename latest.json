@@ -1,11 +1,11 @@
 {
-  "version": "1.0.17",
-  "notes": "Read-aloud works with VoiceStudio 0.5.8; newest voice until you pick one.",
-  "pub_date": "2026-11-28T13:33:05Z",
+  "version": "1.0.18",
+  "notes": "Mascot at the bottom left, bigger, glides from the start screen.",
+  "pub_date": "2026-11-28T16:35:01Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUSTlPYmtSRXhSejdxcTJCdEJISms5a2UrRmlZY3hkbm5DS3VRZTZQWnEzVlNyMGxOMTNlL3MwZnlCTnBZYmZxWDFTdFJvc2ErdnVTMG8vc2JvUm1hUk5HQWFNWVlvZXdjPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk1ODcyNzg0CWZpbGU6b25lXzEuMC4xN194NjQtc2V0dXAuZXhlCXZlcnNpb246MS4wLjE3ClFUeDYySjlXWG5KR3FUMUU3bjJKeHBVRTBxeFlMTUowU1lPQklQRm9JNGZrL3I4WWx6dXNGWTBjM1VSb2NYTU9tNm96NVNCdXpPVVI1S2FPQ2YwQUF3PT0K",
-      "url": "https://raw.githubusercontent.com/opsor/one-releases/main/one_1.0.17_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUSTlPYmtSRXhSejZyNDZOOXVCYlV5NjhySWhDbHhwRERId0h3NVFMeXZJMURLa2FCdnJzZjFzQjViZ2pFaXBiQ2sxdFh3OE1uVytDaGY1aGpBb1l4T1dNZjEvS0doUXdVPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk1ODgzNzAwCWZpbGU6b25lXzEuMC4xOF94NjQtc2V0dXAuZXhlCXZlcnNpb246MS4wLjE4Cm1JSVBVWjl3aGtnbk5zU0NpZVVFSmRIb2lna1JuK3dlbkRETDVsR1J0MlpaOUxDMlFKbmQwazNxUHg1QkVRNUIya3dudmlsNFFyRitzRzhUdVl1UERRPT0K",
+      "url": "https://raw.githubusercontent.com/opsor/one-releases/main/one_1.0.18_x64-setup.exe"
     }
   }
 }
