@@ -1,11 +1,11 @@
 {
-  "version": "1.0.18",
-  "notes": "Mascot at the bottom left, bigger, glides from the start screen.",
-  "pub_date": "2026-11-28T16:35:01Z",
+  "version": "1.0.19",
+  "notes": "No folder question in Chat.",
+  "pub_date": "2026-11-28T16:56:35Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUSTlPYmtSRXhSejZyNDZOOXVCYlV5NjhySWhDbHhwRERId0h3NVFMeXZJMURLa2FCdnJzZjFzQjViZ2pFaXBiQ2sxdFh3OE1uVytDaGY1aGpBb1l4T1dNZjEvS0doUXdVPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk1ODgzNzAwCWZpbGU6b25lXzEuMC4xOF94NjQtc2V0dXAuZXhlCXZlcnNpb246MS4wLjE4Cm1JSVBVWjl3aGtnbk5zU0NpZVVFSmRIb2lna1JuK3dlbkRETDVsR1J0MlpaOUxDMlFKbmQwazNxUHg1QkVRNUIya3dudmlsNFFyRitzRzhUdVl1UERRPT0K",
-      "url": "https://raw.githubusercontent.com/opsor/one-releases/main/one_1.0.18_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUSTlPYmtSRXhSejZKMFFzZUo0Y0hiNitVb2R4WVVNblhxSjN6cXRYNTZEQ0xsc1FlaHUxR2oxNmVMWnBZNGltajZXR2c1MlorUE1XVkRtUTJuenhUQmIraFZROFVJNVFRPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk1ODg0OTk0CWZpbGU6b25lXzEuMC4xOV94NjQtc2V0dXAuZXhlCXZlcnNpb246MS4wLjE5Ci9hZzdCNjZLSm5mUm81eCszWFYrcEFPNHBzOHRzbG4xVU5JOG1qay9kMmNFUEdGSTNHRTZtZjczZnRMNDdlcDVpTkJ4QVFQTnBWWVQ4ei9rOFE0aEFRPT0K",
+      "url": "https://raw.githubusercontent.com/opsor/one-releases/main/one_1.0.19_x64-setup.exe"
     }
   }
 }
