@@ -1,26 +1,27 @@
-<p align="center">
-  <img alt="Version" src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fraw.githubusercontent.com%2Fopsor%2Fone-releases%2Fmain%2Flatest.json&query=%24.version&label=newest&color=ededed&labelColor=141414&style=flat-square">
-  <img alt="Windows" src="https://img.shields.io/badge/Windows-10%20%7C%2011-ededed?style=flat-square&labelColor=141414">
+# one · download
+
+**one** is a Windows desktop app that puts the free tiers of 90+ AI providers and the coding agents you already pay for (Claude Code, Codex, Gemini CLI, Antigravity, OpenCode, GitHub Copilot, CodeBuddy, Qoder) behind one chat box.
+
+<p>
+  <a href="https://github.com/opsor/one-releases/raw/main/one_1.0.3_x64-setup.exe"><b>Download one 1.0.3 for Windows</b></a><br>
+  <sub><code>one_1.0.3_x64-setup.exe</code> · 6 MB · Windows 10 and 11, 64-bit</sub>
 </p>
-
-# one · releases
-
-Installers and the update manifest (`latest.json`) for **one**, the desktop app that puts every free AI model and the coding agents you already pay for (Claude Code, Codex, Gemini CLI, Antigravity, OpenCode, GitHub Copilot, CodeBuddy, Qoder) behind one chat box.
 
 ## Install
 
-1. Download the newest `one_*_x64-setup.exe` from this repo.
-2. Run it. It installs for your user only; no admin rights.
-3. Windows SmartScreen may ask once, because the installer isn't code-signed yet: *More info → Run anyway*.
+1. Run the installer. It installs for your user only; no admin rights.
+2. Windows SmartScreen may ask once, because the installer isn't code-signed yet: *More info → Run anyway*.
 
-After that, one updates itself: it checks `latest.json` here on every start, and the update is verified with one's signing key before it installs.
+After that, one updates itself: it checks [`latest.json`](latest.json) on every start and verifies each update with one's signing key before installing it.
 
-## What's in it
+## New in 1.0.3
 
-- **Your agents, no API keys:** connect the coding agents you already use, with your own sign-in.
-- **Every free model:** paste keys from anywhere; one tracks every token and switches keys and models before a limit.
-- **See what the model is doing:** thinking, a live plan, and the work folded into *Explored · Edited · Ran*.
-- **Accounts:** each with its own chats, keys, agent sign-ins and usage.
-- **Remote Control:** follow and steer your agents from your phone.
+- A mascot on the start screen.
+- In Code chats, the files each agent answer changed, with the diff and Undo.
+- Several sign-ins per agent, each pickable in the model picker.
+- A tag per model in the picker: fast, everyday, deep, code, vision, local, free.
+- A calmer look: warmer greys, thinner icons, softer lines.
 
 Each installer is scanned with Microsoft Defender before it's published here. The two newest versions are kept.
+
+Source, features and FAQ: [opsor/one](https://github.com/opsor/one).
