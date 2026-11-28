@@ -1,11 +1,11 @@
 {
-  "version": "1.0.14",
-  "notes": "One token bar; notifications in the left bar; quieter start screen.",
-  "pub_date": "2026-11-28T10:41:52Z",
+  "version": "1.0.15",
+  "notes": "OpenCode signs in to the model's provider directly; compact problem card.",
+  "pub_date": "2026-11-28T11:17:53Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUSTlPYmtSRXhSejFLMXFGTCtSeStyOTQzem84YmxOT1RyMUk5M1M2VHZEZUhIaGh6WTdNM2xLTnE0KytyejBSR00rSHk5Z3Y3Q29Jc3pCL3dTZzh2YlY0NGtUKzFpOGc4PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk1ODYyNTExCWZpbGU6b25lXzEuMC4xNF94NjQtc2V0dXAuZXhlCXZlcnNpb246MS4wLjE0Cmw2M2lHRFNBbFoyVE9obnVtZ2xHK3hpdEhjSGpUaHI5MkxCeVNuR2VNOUgxU0RzMEcxaXZuOWlwcGRSUis4bmYxK3Y4bERlMWVRMjJYekJEQUZWVkN3PT0K",
-      "url": "https://raw.githubusercontent.com/opsor/one-releases/main/one_1.0.14_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUSTlPYmtSRXhSenlWWVdINm9rbnhEb2t6UEtyVVZuelpjZTVoa0xSbDBRWWF3bENCWTdBWDBiZWlmZXNuWmwzVlZnVUxDNVpEYXdKQ3dxL0c5UGk0U3BpdE5Zd0FhandnPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk1ODY0NjcyCWZpbGU6b25lXzEuMC4xNV94NjQtc2V0dXAuZXhlCXZlcnNpb246MS4wLjE1CndFTUZ2cVZ0dWw5c1FRQXhlb09CS2xZM2hOUkJwOFlZS3h1cUEzVjI1eS9VYkNhZFZwaHltZHZhRHB2bzltUkViMU9FeTQ1ZTV3WDZ3YWd1UlJxNUR3PT0K",
+      "url": "https://raw.githubusercontent.com/opsor/one-releases/main/one_1.0.15_x64-setup.exe"
     }
   }
 }
